@@ -1,3 +1,1 @@
-# my-test-lab
-
-테스트
+# my-test-lab 테스트입니다.
